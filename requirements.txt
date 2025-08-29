@@ -1,0 +1,16 @@
+# Streamlit Web UI
+streamlit>=1.49.0
+
+# HDF5 v7.3 数据读取
+h5py>=3.9.0
+
+# 数值计算
+numpy>=2.3.2
+pandas>=2.3.2
+
+# 交互可视化
+plotly>=5.20.0
+
+# 可选工具库（推荐）
+python-dateutil>=2.9.0
+pillow>=11.3.0
